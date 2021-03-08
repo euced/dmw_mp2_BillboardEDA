@@ -1,5 +1,5 @@
 # Unlocking the musicality of Billboard Hot 100 songs
-
+### Eugenio Cedric Corro | Jeely Nicole Obrero
 ## Executive Summary
 
 The music industry in the US raked in an estimated revenue of USD 11 billion in 2019. Throughout the years, this revenue keeps on growing year by year. Moreover, new artists pop up each year taking a chance of making a mark in the industry. To do this, many artists, aim for that privileged spot in the US Billboard Hot 100. This made us wonder, "What does it take to break in to the US Billboard Hot 100 list?"
